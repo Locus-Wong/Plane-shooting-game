@@ -16,9 +16,6 @@ Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6
 
 ![Recorder_08062024_131451](https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13)
 
-
-![Recorder_08062024_131451](https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/87d213a3-0b7a-4049-aad4-8d9b3935ff1a)
-
 ## Credit:
 https://github.com/exewin 
 This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution 4.0 International License.
