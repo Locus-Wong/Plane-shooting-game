@@ -34,7 +34,7 @@ The game is currently available only for Android devices.
 7. Go to this [Download Link](https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing) to download the APK file.
 8. Accept any prompts you see about the file being potentially harmful. For example, tap **Download anyway**.
 9. Once the APK is downloaded to your device, tap the file name (Mysterious_Galaxy (v1.0).apk), then tap **Install**.
-10. After a few moments, the game will be fully installed and will appear alongside your other apps with the Unity icon.
+10. After a few moments, the game will be installed and appear with the Unity icon among your apps.
 
 ## Project Credits:
 
