@@ -9,7 +9,7 @@ Built using C# and Unity, with some graphics resources grab from https://opengam
 ## Platform:
 The game is currently available only for Android devices.
 
-Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing (apk file)
+Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing
 
 <div align="center">
   
