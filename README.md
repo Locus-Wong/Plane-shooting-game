@@ -12,14 +12,14 @@ The game is currently available only for Android devices.
 Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing
 
 <div align="center">
-<img width="30%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/425d09fd-7948-4cc2-a18a-eaaa99e89d35">
-<img width="30%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13">
-<img width="30%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/fcae2c24-c6df-42cf-9f86-3ac8bc264765">
+<img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/425d09fd-7948-4cc2-a18a-eaaa99e89d35">
+<img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13">
+<img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/fcae2c24-c6df-42cf-9f86-3ac8bc264765">
 </div>
 
 <div align="center">
-  <img width="30%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/295df3d0-ba1f-4ec6-9f8d-2a0d6a7da685">
-<img width="30%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/a84732f1-bcd3-4009-894d-7fba0d81ea06">
+  <img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/295df3d0-ba1f-4ec6-9f8d-2a0d6a7da685">
+<img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/a84732f1-bcd3-4009-894d-7fba0d81ea06">
 </div>
 
 ## Controls:
