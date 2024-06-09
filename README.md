@@ -1,6 +1,6 @@
 # Mysterious Galaxy
 
-## Game Description:
+## Project Description:
 It is a mobile game where the player acts as a galaxy guardian, tasked with saving the galaxy by shooting invaders. In this mysterious galaxy, enemy bullets do not disappear when they reach the edge of the screen; instead, they reappear from the opposite edge, continuing in the same direction. The game challenges players to survive as long as possible, with the score increasing over time. 
 
 ## Development Tools:
