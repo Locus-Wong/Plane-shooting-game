@@ -17,10 +17,14 @@ Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6
 <img width="282" height="500" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/fcae2c24-c6df-42cf-9f86-3ac8bc264765">
 </div>
 
+## Controls:
+- Hover over the center knob to control the movement of the plane shooter.
+- Note: The bullet will continuously shoot automatically.
+
 ## Project Credits:
 
-- **Space-shooter image:** [exewin on GitHub](https://github.com/exewin) (CC-BY 3.0)
-- **Galaxy background image:** Credit to [GodsAndIdols.com](http://www.GodsAndIdols.com)
-- **Main menu image:** Designed by Viktor Hahn (Viktor.Hahn@web.de) (CC-BY 4.0)
-- **Credit tab image:** Artwork by Kris Lachowski
+- Space-shooter, meteor image: [exewin on GitHub](https://github.com/exewin) (CC-BY 3.0)
+- Galaxy background image: Credit to [GodsAndIdols.com](http://www.GodsAndIdols.com)
+- Main menu image: Designed by Viktor Hahn (Viktor.Hahn@web.de) (CC-BY 4.0)
+- Credit tab image: Artwork by Kris Lachowski
 
