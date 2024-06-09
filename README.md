@@ -6,8 +6,6 @@ It is a mobile game where the player acts as a galaxy guardian, tasked with savi
 ## Development Tools:
 Built using C# and Unity, with all graphic game assets sourced from https://opengameart.org/.
 
-
-
 ## Platform:
 The game is currently available only for Android devices.
 
