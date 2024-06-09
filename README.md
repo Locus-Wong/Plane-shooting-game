@@ -9,18 +9,6 @@ Built using C# and Unity, with all graphic game assets sourced from https://open
 ## Platform:
 The game is currently available only for Android devices.
 
-## Install Instruction:
-1. Open the Settings app and tap Apps or Apps & Notifications.
-2. Tap the three dots in the upper-right corner. If you don't see that, skip down to the next step.
-3. Tap Special access, or Special app access on some Android devices.
-4. Tap Install unknown apps.
-5. Tap Chrome (or whichever web browser you use).
-6. Switch the toggle next to Allow from this source so it turns on.
-7. Go to this Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing to download the APK file
-8. Accept any prompts you might see about the file being potentially harmful. For example, tap Download anyway or OK.
-9. Once the APK is downloaded to your device, tap the file name followed by Install
-10. After a few moments, the app will be fully installed and show up next to all your other apps.
-
 <div align="center">
 <img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/425d09fd-7948-4cc2-a18a-eaaa99e89d35">
 <img width="25%" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13">
@@ -35,6 +23,18 @@ The game is currently available only for Android devices.
 ## Controls:
 - Hover over the center knob to control the movement of the plane shooter.
 - Note: The bullet will continuously shoot automatically.
+
+## Installation Instructions:
+1. Open the **Settings** app and tap **Apps** or **Apps & Notifications**.
+2. Tap the three dots in the upper-right corner. If you don't see this option, skip to the next step.
+3. Tap **Special access** or **Special app access** on some Android devices.
+4. Tap **Install unknown apps**.
+5. Tap **Chrome** (or whichever web browser you use).
+6. Switch the toggle next to **Allow from this source** to turn it on.
+7. Go to this [Download Link](https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing) to download the APK file.
+8. Accept any prompts you see about the file being potentially harmful. For example, tap **Download anyway** or **OK**.
+9. Once the APK is downloaded to your device, tap the file name (Mysterious_Galaxy (v1.0).apk), then tap **Install**.
+10. After a few moments, the game will be fully installed and will appear alongside your other apps with the Unity icon.
 
 ## Project Credits:
 
