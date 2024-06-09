@@ -13,8 +13,10 @@ Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6
 
 ![Recorder_08062024_131451](https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13)
 
-## Credit:
-https://github.com/exewin 
-This work, made by Viktor Hahn (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution 4.0 International License.
+## Project Credits:
 
+- **Space-shooter image:** [exewin on GitHub](https://github.com/exewin) (CC-BY 3.0)
+- **Galaxy background image:** Credit to [GodsAndIdols.com](http://www.GodsAndIdols.com)
+- **Main menu image:** Designed by Viktor Hahn (Viktor.Hahn@web.de) (CC-BY 4.0)
+- **Credit tab image:** Artwork by Kris Lachowski
 
