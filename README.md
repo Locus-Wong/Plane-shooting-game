@@ -4,7 +4,7 @@
 It is a mobile game where the player acts as a galaxy guardian, tasked with saving the galaxy by shooting invaders. In this mysterious galaxy, enemy bullets do not disappear when they reach the edge of the screen; instead, they reappear from the opposite edge, continuing in the same direction. The game challenges players to survive as long as possible, with the score increasing over time. 
 
 ## Development Tools:
-Built using C# and Unity, with all graphic game assets sourced from https://opengameart.org/.
+Built using **C#** and **Unity**, with all graphic game assets sourced from https://opengameart.org/.
 
 ## Platform:
 The game is currently available only for Android devices.
@@ -22,7 +22,7 @@ The game is currently available only for Android devices.
 
 ## Controls:
 - Hover over the center knob to control the movement of the plane shooter.
-- Note: The bullet will continuously shoot automatically.
+- Note: The bullet will **continuously shoot** automatically.
 
 ## Installation Instructions:
 1. Open the **Settings** app and tap **Apps** or **Apps & Notifications**.
@@ -32,7 +32,7 @@ The game is currently available only for Android devices.
 5. Tap **Chrome** (or whichever web browser you use).
 6. Switch the toggle next to **Allow from this source** to turn it on.
 7. Go to this [Download Link](https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing) to download the APK file.
-8. Accept any prompts you see about the file being potentially harmful. For example, tap **Download anyway** or **OK**.
+8. Accept any prompts you see about the file being potentially harmful. For example, tap **Download anyway**.
 9. Once the APK is downloaded to your device, tap the file name (Mysterious_Galaxy (v1.0).apk), then tap **Install**.
 10. After a few moments, the game will be fully installed and will appear alongside your other apps with the Unity icon.
 
