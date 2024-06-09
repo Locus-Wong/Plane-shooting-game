@@ -11,10 +11,9 @@ The game is currently available only for Android devices.
 
 Download Link: https://drive.google.com/file/d/1FprYLiNEwQbOy70P-miK7ruzshzfT7N6/view?usp=sharing (apk file)
 
-<div align="">
-<img width="300" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/425d09fd-7948-4cc2-a18a-eaaa99e89d35">  
+<div align="center">
   
-  ![Recorder_08062024_131451](https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13)
+ <img width="300" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/425d09fd-7948-4cc2-a18a-eaaa99e89d35">   ![Recorder_08062024_131451](https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/b14209dc-2d09-4f40-9972-d0b5746aaf13)
 <img width="300" src="https://github.com/Locus-Wong/Plane-shooting-game/assets/125144955/fcae2c24-c6df-42cf-9f86-3ac8bc264765">
 </div>
 
